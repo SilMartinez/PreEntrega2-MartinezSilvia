@@ -1,0 +1,204 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:0;
+}
+
+body{
+    background-color: black;
+}
+
+.container-fluid{
+    padding: 20px;
+    background-color: #923431B0;
+    margin-bottom: 30px;
+    border:3px solid #923431B0;
+}
+
+.nav-item{
+    margin-left: 80px;
+    margin-bottom:5px;
+}
+
+.nav-link{
+    font-size:140%;
+    font-family: 'Bebas Neue', cursive;
+    border-bottom:3px solid #923431B0;
+    border-top:3px solid #923431B0;
+}
+
+a{
+    text-align:right;
+}
+
+.nav-link:hover{
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    -webkit-text-fill-color:white;
+}
+
+nav div a img{
+    border: 2px solid #923431B0;
+    border-radius: 20%;
+}
+nav div a img:hover{
+    border: 2px solid black;
+}
+
+.dropdown-menu{
+    background-color:#923431B0 ;
+}
+
+.dropdown-item{
+    text-align:center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.cards{
+    margin-top:30px;
+    margin-bottom:55px;
+}
+
+.card-index:hover{
+    opacity: 50%;
+}
+
+.card-index{
+    border: groove 2px #923431B0;
+    margin-bottom: 15px;
+}
+.card{
+    margin-left: 65px;
+    margin-top:20px;
+    border: solid 2px #923431B0;
+    background-color: black;
+}
+
+.card-text{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color:#923431B0;
+}
+
+.card-text-ubi{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color:white;
+}
+
+footer{
+    padding:20px;
+    background-color:grey;
+    margin-bottom: 30px;
+}
+
+footer section{
+    padding-top: 20px;
+}
+
+footer section img{
+    height:20px;
+    border-radius:20%;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+footer section img:hover{
+    opacity: 50%;
+}
+
+.txtFooter{
+    font-size:110%;
+    color: black;
+    padding:20px;
+    font-family: 'Bebas Neue', cursive;
+    opacity: 50%;
+}
+
+.txtFooter:hover{
+    opacity:100%;
+    color:#923431B0;
+}
+
+.card-row{
+    margin-top:30px;
+    margin-bottom:30px;
+    border-bottom: 1px dashed #923431B0;
+    
+}
+
+main div h2{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 200%;
+}
+
+.h2{
+    background-color: white;
+    padding:20px;
+}
+
+.card-title{
+    text-align:center;
+    font-family: 'Bebas Neue', cursive;
+    font-size:300%;
+    padding:20px;
+    color:#923431B0;
+}
+
+.card-var{
+    margin-top:60px;
+    
+}
+
+.list-group-item{
+    background-color: black;
+    color:white;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+.card-body{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+
+.card-img-bottom{
+    width:50%;
+    margin-top:30px;
+}
+
+.card-img-bottom:hover{
+    opacity:50%;
+}
+
+.form-control{
+    border:2px solid #923431B0;
+    background-color: black;
+    -webkit-text-fill-color:white;
+}
+
+.form-check-label{
+    color:#923431B0;
+}
+
+.btn{
+    background-color: #923431B0;
+    border:3px solid #923431B0;
+    margin-bottom: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 120%;
+}
+
+.btn:hover{
+    background-color: white;
+    border:3px solid #923431B0;
+}
+
+.card-img-top:hover{
+    opacity:50%;
+}
+
+.centrado{
+    text-align: center;
+}
